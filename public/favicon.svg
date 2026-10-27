@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Mahmut Açıkel</title>
+  <rect width="64" height="64" fill="#173c3b"/>
+  <path d="M12 49V15h7l13 17 13-17h7v34h-8V28L32 44 20 28v21z" fill="#edf2f2"/>
+  <path d="M12 54h40" stroke="#b4543e" stroke-width="4"/>
+</svg>
